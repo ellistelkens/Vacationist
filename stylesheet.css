@@ -2,6 +2,7 @@
     border: 0;
     padding: 0;
     margin: 0;
+    background-color: black;
 }
 
 div {
@@ -9,7 +10,7 @@ div {
     font-family: Arial, Helvetica, sans-serif;
     width: 100%; /* durch % ist headline nicht centered, aber bei setzung zu 100vw entsteht overflow-x */
     height: 100vh;
-    background: black; /* kein effect*/
+
 }
 h1 {
     display: flex;
@@ -20,6 +21,7 @@ h1 {
     font-weight: bold;
     padding: 8px 24px;
     border-radius: 16px;
+    background-color: transparent;
 }
 h2 {
     display: flex;
@@ -30,8 +32,11 @@ h2 {
     font-size: 30px;
     padding: 8px 24px;
     border-radius: 16px;
+    background-color: transparent;
 }
-
+small   {
+    background-color: transparent;
+}
 
 /*a {
     color: inherit;
