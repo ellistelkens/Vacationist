@@ -13,6 +13,7 @@ div {
 }
 h1 {
     display: flex;
+    white-space: normal;
     align-items: center;
     justify-content: center;
     font-size: 65px;
@@ -22,15 +23,23 @@ h1 {
 }
 h2 {
     display: flex;
+    white-space: normal;
     align-items: center;
     justify-content: center;
-    font-family: cursive;
+    font-family: fantasy;
     font-size: 30px;
     padding: 8px 24px;
     border-radius: 16px;
 }
+
+
+/*a {
+    color: inherit;
+}*/
 /* blog */
     /*class center damit max Breite vom Fließtext*/
+
+
 .center {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -58,6 +67,7 @@ time {
     padding-left: 20px;
     font-size: 15px;
     color: dimgray;
+    
 }
 div:nth-child(1) {
 background-image: url(Image-Vacationist.jpeg);
@@ -66,5 +76,5 @@ background-size: cover;
 
 div:nth-child(2) {
     background: black;
-    height: 150vh;
+    height: 100%;
 }
