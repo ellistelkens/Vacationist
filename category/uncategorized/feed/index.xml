@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized &#8211; The Vacationist</title>
 	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://vacationist.eu</link>
+	<link>/http://vacationist.eu</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 30 May 2022 22:20:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,38 +21,38 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Blog</title>
-		<link>http://vacationist.eu/2022/05/30/blog/</link>
-					<comments>http://vacationist.eu/2022/05/30/blog/#respond</comments>
+		<link>/http://vacationist.eu/2022/05/30/blog/</link>
+					<comments>/http://vacationist.eu/2022/05/30/blog/#respond</comments>
 		
 		<dc:creator><![CDATA[Elisa]]></dc:creator>
 		<pubDate>Mon, 30 May 2022 22:20:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://vacationist.eu/?p=163</guid>
+		<guid isPermaLink="false">/http://vacationist.eu/?p=163</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>http://vacationist.eu/2022/05/30/blog/feed/</wfw:commentRss>
+					<wfw:commentRss>/http://vacationist.eu/2022/05/30/blog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://vacationist.eu/2022/05/26/hello-world/</link>
-					<comments>http://vacationist.eu/2022/05/26/hello-world/#comments</comments>
+		<link>/http://vacationist.eu/2022/05/26/hello-world/</link>
+					<comments>/http://vacationist.eu/2022/05/26/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Elisa]]></dc:creator>
 		<pubDate>Thu, 26 May 2022 18:03:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://vacationist.eu/?p=1</guid>
+		<guid isPermaLink="false">/http://vacationist.eu/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://vacationist.eu/2022/05/26/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/http://vacationist.eu/2022/05/26/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
